@@ -27,8 +27,8 @@ Login con diseño minimalista, usando boostrap.
 ## Perfil de usuario
 Perfil de usuario dentro de la web. Muestra la información personal del usuario y permite modificar algunos de ellos, así como también otras cosas como 2FA, foto, etc.
 
-[+] Foto de perfil
-[+] Activar/Desactivar 2FA
+[+] Foto de perfil\
+[+] Activar/Desactivar 2FA\
 [+] Cambiar datos personales
 
 ### Implementado
