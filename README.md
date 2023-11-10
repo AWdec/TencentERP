@@ -34,6 +34,7 @@ Perfil de usuario dentro de la web. Muestra la información personal del usuario
 ### Implementado
 
 ### TO-DO
+[+] Conexiones con la BD para terminar por completo la funcionalidad de login, olvidé contraseña, soporte técnico y modificación de datos en el perfil de usuario.
 
 ### Posibles características futuras
 
